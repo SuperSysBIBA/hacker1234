@@ -14,5 +14,6 @@ public class helloworld : MonoBehaviour
     void Update()
     {
         
+        print("crickets");   
     }
 }
